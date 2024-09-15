@@ -63,7 +63,7 @@ Current password strengths are:
 
 <hr>
 
-<h1><span>&LeftAngleBracket;&thinsp;</span>&copy; Lawi Corp<span>&thinsp;&RightAngleBracket;</span></h1>
+<h1><span>&LeftAngleBracket;&thinsp;</span>&copy; 2024 Lawi<span>&thinsp;&RightAngleBracket;</span></h1>
 
 <div>
     <h2>Disclaimer</h2>
