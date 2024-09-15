@@ -32,9 +32,9 @@
 
     P = {!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~}  #--> the complete set of punctuation marks.
 
-Currect password strengths are:
+Current password strengths are:
 
-#### (1) Very strong: composed exclusively of the english letters (lowercase & uppercase), the digits and the english punctuation marks.
+#### (1) Very strong: includes all the characters formerly mentioned. Of the english letters, lowercase & uppercase, and the digits, as well as the punctuation marks.
 
     Let S | S ∩ {L, D, P} = S
 ####  where S is the password string,
