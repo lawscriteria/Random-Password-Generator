@@ -1,6 +1,6 @@
 # Password Generator
 
-#### Description: The Password Generator is a Python project that prompts the user to specify the strength of the password to be generated, and generates a random password accordingly.
+#### Description: The Password Generator is a Python project that prompts the user to specify the strength of the password to be generated, and generates a random password accordingly. It utilizes cryptographic numbers to generate extremely strong and safe passwords.
 
 ### 
 
